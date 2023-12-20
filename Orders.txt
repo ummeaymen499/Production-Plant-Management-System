@@ -1,0 +1,17 @@
+Blue Polo Shirt;500;2023-03-01;Blue color
+1TB External HDD;1000;2023-03-15;1TB HDD
+Cotton T-Shirts;2000;2023-04-01;Cotton
+14 inch Laptop;250;2023-03-18;14 inch screen
+Leather Jacket;1500;2023-03-25;Leather
+Steel Plates;700;2023-04-05;Steel
+Plastic Chairs;350;2023-03-12;Plastic
+Wooden Table;290;2023-03-19;Wood
+Glass Vases;880;2023-04-12;Glass
+Rubber Tires;1200;2023-03-29;Rubber
+Ceramic Bowls;660;2023-03-26;Ceramic
+Aluminum Foil;190;2023-04-02;Aluminum
+Fabric Rolls;750;2023-03-11;Cotton
+Leather Boots;400;2023-03-17;Leather
+Plastic Bottles;1250;2023-04-19;Plastic
+;;;
+umme;;3333-33-33;33333

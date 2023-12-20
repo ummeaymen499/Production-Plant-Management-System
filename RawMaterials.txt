@@ -1,0 +1,17 @@
+Wheat;Potash;500;Silo 2;WheatFarmCo
+Potatoes;Ammonia;2000;Warehouse 1;SpudSuppliers,TuberTown
+Cassava;Sulfur;1500;Warehouse 2;CassavaGrowers
+Rice;Phosphoric acid;400;Tank A;ChemCorp
+Peas;Ammonia;800;Tank B;NitroGen
+Lentils;Potash;200;Tank C;PotashSupply
+Barley;Sulfur;100;Shed 1;SulfurWorks
+Sago;Nitrogen;80;Shed 2;Nitro LLC
+Tapioca;Phosphorus;60;Shed 3;PhosLtd
+Sweet Potatoes;Muriate of Potash;3000;Warehouse 3;PackagingSolutions
+Sorghum;Ammonium Sulphate;2000;Warehouse 3;BagSales
+Taro;Urea;500;Warehouse 4;BarrelCo
+Arrowroot;Nitric Acid;100;Warehouse 4;PalletWarehouse
+Bananas;Compost;100;Warehouse 4;PalletWarehouse
+ggggg;ggg;ggggg;rrr;ggggg
+inst;corn;333;Silo 2;15
+4444;Ummee;ffffff;ffffff;fffffff

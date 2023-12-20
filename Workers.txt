@@ -1,0 +1,10 @@
+Anas Jabbar;10001;Mechanical Enjineer;Maintenance,Machine operation,Quality Control;50000
+Abdul Jabbar(Baba);10002;Electrical Enjineer;Power Systems,Control Systems,Circuit Design;40000
+Abdul Hadi;10004;Mechanical Enjineer;Thermodynamics,Fluid Mechanics,Engineering Design;30000
+Namra Jabbar;10005;Chemical Enjineer;Plant Design,Chemical Thermodynamics,Kinetics;35000
+Ramsha Jabbar;10006;Doctor Ji;Structures,Flight Mechanics,Avionics;40000
+Usaid Yousuf;10007;Civil Enjineer;Structural Design,Construction Management;35000
+Minhas Azhar;10008;Chemical Enjineer;Fluid Mechanics;55000
+Duraid Anjum;10009;Operator;Surveying;48000
+Alaya Usman;10010;Aani ki Jaan;Chuckling,Crying,Eating;60000
+Hira Appi;10011;Doctor Sahiba;PLC Programming;65000

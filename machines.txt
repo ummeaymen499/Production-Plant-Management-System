@@ -1,0 +1,9 @@
+2;Milling Machine;MIL01;50 x 100 cm table, 800W motor;Milling, drilling, cutting
+3;Drill Press;DRP01;20 mm max drill diameter, 500-1500 RPM;Drilling holes
+4;Grinder;GRD01;6 in grinding wheel;Grinding and deburring
+5;CNC Machine;CNC01;3-axis, 24 x 36 x 12 in max;Milling, routing, cutting
+6;Bandsaw;BSW01;14 in throat depth;Cutting curves and straight cuts
+8;Planer;PLN01;20 in max width, 1/2 HP motor;Smoothing and leveling wood surfaces
+9;Wood Lathe;WLT01;12 in swing over bed, variable speed;Shaping and turning wood
+10;Table Saw;TSW01;10 in blade diameter, 5000 RPM max speed;Ripping and crosscutting wood
+22;22;222;222;222
